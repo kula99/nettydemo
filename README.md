@@ -1,2 +1,3 @@
-# nettydemo
-A Netty Demo Project
+# Netty Demo
+
+A project for netty test
