@@ -1,0 +1,17 @@
+/bin/
+/.git/
+/.gradle/
+/.settings/
+/dist/
+.DS_Store
+.*.swp
+*.ipr
+*.iml
+*.iws
+*.class
+.idea
+build
+.classpath
+.project
+*.bak
+*.log
